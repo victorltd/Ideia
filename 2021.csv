@@ -1,0 +1,64 @@
+numero;equipe;escola;uf;dip;dip_plantas;aerodinamica;desempenho;estabilidade;cargas;estruturas;estruturas_plantas;pel;subtotal_rela;penalidades;total_rela;apresentacao;penalidades_apresentacao;total_apresentacao;total_geral
+2;EESC-USP Alpha;Escola de Engenharia de São Carlos - Universidade de São Paulo (EESC - USP;SP;16.52;7.64;23.57;22.6;21.91;19.19;17.36;8.74;22.86;160.4;-0.07;160.33;36.3;0;36.3;196.63
+3;Uai. sô! Fly!!!;Universidade Federal de Minas Gerais (UFMG;MG;15.78;8.95;23.21;22.78;21.31;20.72;16.14;8.09;17.49;154.48;-0.19;154.29;36.63;0;36.63;190.91
+1;Keep Flying;Escola Politécnica da Universidade de São Paulo (POLI - USP;SP;15.43;8.36;24.12;22.61;21.83;16.18;16.69;8.56;19.58;153.36;-0.41;152.95;37.62;0;37.62;190.57
+4;UIRÁ Aerodesign;Universidade Federal de Itajubá - Campus Itajubá (UNIFEI - Itajubá;MG;16.76;8.76;17.96;22.89;23.71;20.12;15.17;8.64;17.51;151.53;-0.13;151.4;37.4;0;37.4;188.81
+5;Tucano;Universidade Federal de Uberlândia (UFU;MG;16.91;8.18;21.75;22.57;22.62;19.22;15.62;8.92;15.12;150.9;0;150.9;36.23;0;36.23;187.13
+6;Harpia Aerodesign;Universidade Federal do ABC (UFABC;SP;16.97;8.61;22.55;20.42;21.19;18.22;15.8;8.23;18.13;150.12;0;150.12;37.84;0;37.84;187.97
+19;F-Carranca;Universidade Federal do Vale do São Francisco (UNIVASF;BA;17.46;7.76;22.57;21.51;21.85;13.43;14.08;7.66;18.26;144.57;0;144.57;37.12;0;37.12;181.7
+7;Urubus AeroDesign;Universidade Estadual de Campinas (UNICAMP;SP;14.71;5.47;21.61;20.15;21.56;13.19;14.77;8.39;17.73;137.58;-0.66;136.92;36.27;0;36.27;173.19
+9;Axé Fly;Universidade Federal da Bahia (UFBA;BA;12.9;8.67;19.49;18.98;19.28;17.09;14.47;7.87;16.94;135.7;0;135.7;37.39;0;37.39;173.08
+14;Albatroz Aerodesign;Universidade do Estado de Santa Catarina (UDESC;SC;17.06;9.42;17.05;20.1;20.07;13.92;12.08;6.53;20.15;136.38;0;136.38;31.76;0;31.76;168.14
+15;Trem Ki Voa Aerodesign;Universidade Federal de São João del-Rei - Campus Santo Antônio (UFSJ - Santo Antônio;MG;16.86;6.95;17.64;19.04;20.41;12.14;14.09;7.2;18.1;132.44;0;132.44;31.29;0;31.29;163.73
+10;AeroFEG;"Faculdade de Engenharia de Guaratinguetá - Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (FEG - UNESP";SP;14.44;5.19;20;20;17.05;16.61;12.47;7.44;13.71;126.91;0;126.91;34.83;0;34.83;161.74
+22;FEI Regular;Centro Universitário da FEI (FEI;SP;13.31;8.47;20.48;16.53;14.62;12.76;13.75;7.72;19.38;127.02;-0.17;126.86;35.08;0;35.08;161.94
+12;Falcons Aerodesign;Centro Universitário FACENS(FACENS;SP;13.61;6.48;18.25;20.87;20.11;13.37;13.73;6.62;17.12;130.15;-0.76;129.39;32.97;-2;30.97;160.36
+17;Delta do Piauí Aerodesign;Universidade Federal do Piauí (UFPI;PI;13.23;6.54;19.26;19.38;17.43;13.64;11.41;8.17;16.8;125.87;0;125.87;33.65;0;33.65;159.52
+13;Aerodesign UTFPR Curitiba;Universidade Tecnológica Federal do Paraná - Campus Curitiba (UTFPR - Curitiba;PR;13.06;6.81;19.36;16.91;16.53;13.99;14.68;6.48;18.02;125.83;-1.46;124.37;33.67;-2;31.67;156.04
+21;Blackbird Aerodesign;Universidade Federal Fluminense - Campus Niterói (UFF - Niterói;RJ;11.31;9.81;16.23;20.05;11.43;12.41;15.98;7.24;17.31;121.76;-0.07;121.69;32.85;-2;30.85;152.55
+30;Kukulcán Aerodesign;Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Ticomán - Instituto Politécnico Nacional (ESIME Tic - IPN;México;12.29;7.14;20.59;14.6;16.81;12.52;10.82;7.65;15.99;118.41;0;118.41;32.96;0;32.96;151.36
+11;Draco Volans Aerodesign;Faculdade de Tecnologia - Universidade de Brasília (FT - UnB;DF;16.94;8.06;15.94;18.64;15.35;12.11;8;5.03;20.4;120.47;-0.03;120.44;28.19;0;28.19;148.63
+23;Dragão Branco UFSCar;Universidade Federal de São Carlos (UFSCar;SP;14.11;6.43;14.91;15.4;15.67;11.17;12.21;8.77;15.15;113.81;0;113.81;33.45;0;33.45;147.26
+16;Aero Vitória Espirito Santo (AVES;;ES;12.74;6.57;17.22;17.02;16.91;14.6;9.32;6.71;15.86;116.95;-0.5;116.45;27.08;0;27.08;143.53
+18;Burning Goose;Universidade Federal do Paraná (UFPR;PR;14.72;9.11;19.01;13.5;17.78;13.27;15.04;5.57;14.64;122.63;-7.37;115.26;30.42;-2;28.42;143.68
+20;Carancho Aerodesign;Universidade Federal de Santa Maria (UFSM;RS;15.81;8.57;16.76;14.92;17.79;12.21;7.83;5.78;12.27;111.93;0;111.93;30.9;0;30.9;142.84
+34;Aerojampa;Universidade Federal da Paraíba (UFPB;PB;9.88;6.06;14.71;18.41;13.15;12.22;11.99;7.37;16.01;109.8;0;109.8;25.82;0;25.82;135.61
+8;CEFAST Aerodesign;Centro Federal de Educação Tecnológica de Minas Gerais - Unidade Belo Horizonte (CEFET/MG - BH;MG;14.84;8.03;15.13;17.08;18.04;19.38;11.21;4.9;8.5;117.12;-14.97;102.15;32.7;0;32.7;134.85
+27;Nisus Aerodesign;Universidade Federal de Santa Catarina - Campus Joinville (UFSC - Joinville;SC;12.33;2.85;15.5;17;12.67;10.96;7.96;5.14;16.66;101.06;0;101.06;30.97;0;30.97;132.03
+31;Skywards UFVoa;Universidade Federal de Viçosa - Campus Viçosa (UFV - Viçosa;MG;10.31;3.31;17.62;8.61;14.53;12.03;13.26;7.36;11.49;98.52;0;98.52;31.88;0;31.88;130.39
+28;Equipe Zeus;Universidade Estadual do Maranhão (UEMA;MA;7.22;6.56;11.44;14.13;13.5;13.2;9.84;3.91;12.65;92.45;8.97;101.42;27;0;27;128.41
+33;Abutres Aerodesign;Universidade Tecnológica Federal do Paraná - Campus Cornélio Procópio (UTFPR - Cornélio Procópio;PR;9.5;8.55;13.13;10.73;11.31;12.5;13.33;6.12;13.51;98.68;0;98.68;29.4;0;29.4;128.08
+62;Avoante Aeromec;Universidade Federal do Ceará - Campus Fortaleza (UFC - Fortaleza;CE;11.63;7;15.33;12.73;10.82;14.85;7.45;7.93;13.79;101.53;0;101.53;26.39;0;26.39;127.93
+61;Taperá;Instituto Federal de Educação. Ciência e Tecnologia de São Paulo - Campus Salto (IFSP - Salto;SP;10.98;8.36;11.43;11.6;13.18;12.41;10.56;7.53;9.92;95.97;0;95.97;31.25;0;31.25;127.22
+25;AeroSATC;Faculdade Sociedade de Assistência aos Trabalhadores do Carvão (FASATC;SC;11.1;8.09;12.49;11.66;10.27;12.84;15.19;7.94;7.5;97.08;0;97.08;27.58;0;27.58;124.66
+29;PegAzuls Aerodesign;Universidade Federal Rural do Semi-Árido - Campus Mossoró (UFERSA - Mossoró;RN;5.98;6.69;14.53;11.67;7.16;11.34;14.01;8.11;17.39;96.87;0;96.87;25.41;0;25.41;122.29
+26;Triângulo Aéreo Aerodesign;Universidade Federal do Triângulo Mineiro (UFTM;MG;8.31;7.31;12.95;11.97;9.75;12.42;10.96;6.05;12.57;92.29;0;92.29;29.79;0;29.79;122.08
+35;Iúna Aerodesign;Fundacao Hermínio Ometto (FHO - Uniararas;SP;6.13;4.97;12.39;12.09;6.72;12.17;15.44;7.24;13.84;91;0;91;30.07;0;30.07;121.07
+55;Equipe Zebra;"Faculdade de Engenharia de Ilha Solteira - Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (FEIS - UNESP";SP;8.34;3.67;12.32;15.96;4.1;11.21;12.58;6.53;17.62;92.33;0;92.33;27.52;0;27.52;119.85
+41;Megazord Aerodesign;"Faculdade de Tecnologia de São José dos Campos ""Prof. Jessen Vidal"" (FATEC - São José dos Campos";SP;11.12;5.38;16.22;11.98;11.1;11.3;7.43;5.01;7.5;87.04;0;87.04;23.6;0;23.6;110.63
+42;UTFalcon Aerodesign;Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa (UTFPR - Ponta Grossa;PR;7.48;4.69;15.97;9.86;7.43;9.78;10.18;7.24;12.56;85.2;0;85.2;23.23;0;23.23;108.43
+32;AeroVale UFVJM;Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM;MG;9.04;7;7.47;5.04;10.05;10.73;12.81;6.25;14.76;83.14;-2.06;81.08;26.94;0;26.94;108.03
+68;AeroScorpion;Instituto Federal de Educação. Ciência e Tecnologia de São Paulo - Campus Araraquara (IFSP - Araraquara;SP;6.21;4.63;10.19;10.3;8.11;11.2;11.38;6.48;11.74;80.25;0;80.25;26.5;-4;22.5;102.75
+39;UFRGS Pampa Aerodesign;Universidade Federal do Rio Grande do Sul (UFRGS;RS;8.22;6.15;14.29;11.24;2.79;10.17;13.12;8.71;17.07;91.76;-19.84;71.92;31.03;0;31.03;102.96
+46;Equipe Aerodactyl;Universidade Federal de Goiás (UFG;GO;10.36;4.51;12.86;12.44;5.48;10.95;6.17;1.45;11.83;76.04;0;76.04;24.88;0;24.88;100.92
+38;Cabuto;Universidade Tiradentes (Unit;SE;8.92;6.63;13.31;12.27;1.58;10.82;6.65;2.94;12.27;75.39;-1.96;73.43;24.9;0;24.9;98.33
+51;Aerosul;Universidade de Caxias do Sul - Campus Sede (UCS - Sede;RS;11.5;6.67;14.39;13.49;9.38;13.47;6.4;4.33;13.1;92.73;-2.07;90.65;19.99;-16;3.99;94.64
+64;Sol do Equador Aerodesign;Instituto Federal de Educação. Ciência e Tecnologia do Piauí (IFPI;PI;6.85;6.48;10.58;8.69;10.05;9.25;2.87;4.99;10.94;70.7;0;70.7;20.81;0;20.81;91.51
+67;Araras Aerodesign;Universidade Federal de Sergipe (UFS;SE;7.5;4.04;11.48;12.25;6.76;12.26;6.99;4.27;7.72;73.27;-3.55;69.71;24.68;-2;22.68;92.39
+63;IMT Asterix;Instituto Mauá de Tecnologia (IMT - Mauá;SP;8.14;5.6;11.65;15.62;6.35;8.87;10.9;6.77;9.23;83.13;-19.99;63.14;29.46;-2;27.46;90.6
+44;FAM Aerodesign;Instituto Federal do Espírito Santo - Campus São Mateus (IFES - São Mateus;ES;7.97;6.25;9.99;10.42;9.48;12.34;7.19;2.04;10.71;76.38;-10.11;66.27;23.54;0;23.54;89.81
+43;Equipe Enterprise;Universidade do Vale do Paraíba (UNIVAP;SP;8.85;2.82;9.86;8.33;2.03;12.35;10.83;5.9;5.5;66.45;0;66.45;23.58;-2;21.58;88.03
+47;PUCPR;Pontificia Universidade Católica do Paraná (PUC - PR;PR;6.2;2.67;13.63;14.55;7.29;13.26;7.46;5.56;6.87;77.48;-3.95;73.53;18.97;-8;10.97;84.5
+36;IFly Sul;Instituto Federal de Educação. Ciência e Tecnologia Sul-rio-grandense - Campus Passo Fundo (IFSul - Passo Fundo;RS;6.61;6.24;12.93;14.34;6.13;10.24;7.4;5.99;6.5;76.38;-15.87;60.51;24.39;0;24.39;84.9
+40;AeroBeetle;Faculdade Pitágoras - Unidade São Luís (Pitágoras - São Luís;MA;8.52;7.09;11.27;9.23;6.28;11.06;5.26;5.47;5.5;69.68;-18.95;50.73;24.81;0;24.81;75.53
+60;White Eagle;Poznan University of Technology (Politechnika Poznanska;Polônia;7.61;2.14;9.68;3.36;1.53;4.58;3.34;1.87;4.46;38.58;0;38.58;29.63;-20;9.63;48.21
+49;MásBah;Faculdade Horizontina (FAHOR;RS;1.63;3.62;7.12;7.48;3.93;9.54;3.83;1.27;10.05;48.48;-14.98;33.5;18.45;-20;0;33.5
+59;Caboclo;Unidade Acadêmica do Cabo de Santo Agostinho - Universidade Federal Rural de Pernambuco (UACSA - UFRPE;PE;3.96;2.37;9.08;9.53;2.02;10.72;3.63;1.41;9;51.72;-63.52;0;22.18;-2;20.18;20.18
+66;Brabode Aerodesign;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Nova Iguaçu (CEFET/RJ - Nova Iguaçu;RJ;3.5;3.42;9.58;7.41;1.2;7.86;3.62;3.99;3.31;43.9;-24.94;18.96;0;-20;0;18.96
+24;Aero-USB;Universidad Simón Bolivar (USB;Venezuela;11.61;6.49;13.76;14.43;11.7;11.34;7.81;4.56;15.51;97.21;-78.36;18.85;26.92;-30;0;18.85
+52;Ximango Aerodesign;Pontifícia Universidade Católica do Rio Grande do Sul (PUC - RS;RS;4.02;1.83;9.6;7.84;4.45;8.43;3.08;3.02;4.57;46.84;-43.72;3.12;16.26;0;16.26;19.38
+45;Acceptor Aerodesign;Universidade Federal Rural do Semi-Árido - Campus Caraúbas (UFERSA - Campus Caraúbas;RN;0;0;0;0;0;0;0;0;0;0;-35;0;0;0;0;0
+48;AeroTAU;Universidade de Taubaté (UNITAU;SP;5.65;2.03;0;8.57;0;4.31;9.84;3.12;6.88;40.4;-74.9;0;0;0;0;0
+50;Prometheus AeroDesign;Centro Universitário do SENAI Centro Integrado de Manufatura e Tecnologia (Senai CIMATEC;BA;0;0;0;0;0;0;0;0;0;0;-35;0;0;0;0;0
+54;Equipe IFly Aerodesign;Instituto Federal de Educação. Ciência e Tecnologia do Sudeste de Minas Gerais - Campus Juiz de Fora (IFSudesteMG - Juiz de Fora;MG;0;0;0;0;0;0;0;0;0;0;-35;0;0;0;0;0
+65;AeroFURG;Universidade Federal do Rio Grande (FURG;RS;0;0;0;0;0;0;0;0;0;0;-35;0;0;0;0;0
