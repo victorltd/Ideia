@@ -36,7 +36,7 @@ numero;equipe;escola;uf;dip;dip_plantas;aerodinamica;desempenho;estabilidade;car
 23;CARANCHO AERODESIGN;Universidade Federal de Santa Maria (UFSM);RS;5.68;4.54;17.9;10.27;11.16;7.72;7.57;6.44;10.73;0;82.02;0;82.02;26.12;-6;20.12;102.14;0;0;0;102.14;35
 39;AEROVALE;Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM);MG;7.91;6.92;9.38;10.49;11.22;8.25;10.43;6.04;11.07;0;81.71;-69.96;11.75;27.62;-2;25.62;37.37;30;-30;0;37.37;50
 34;IÚNA AERODESIGN;Fundacao Hermínio Ometto (FHO - Uniararas);SP;4.16;8.52;8.78;14.21;6.27;8.74;11.07;6.89;12.96;0;81.61;0;81.61;27.35;-14;13.35;94.96;0;0;0;94.96;39
-36;MEGAZORD AERODESIGN;Faculdade de Tecnologia de São José dos Campos (FATEC - São José dos Campos);SP;8.34;5.24;14.72;11.85;10.4;6.52;7.47;6.44;7.4;0;78.36;0;0    78.36;21.6;0;21.6;99.96;30;-30;0;99.96;36
+36;MEGAZORD AERODESIGN;Faculdade de Tecnologia de São José dos Campos (FATEC - São José dos Campos);SP;8.34;5.24;14.72;11.85;10.4;6.52;7.47;6.44;7.4;0;78.36;0;78.36;21.6;0;21.6;99.96;30;-30;0;99.96;36
 48;IFLY SUL;Instituto Federal de Educação. Ciência e Tecnologia Sul-rio-grandense (IFSul - Passo Fund;RS;8.15;6.54;15.01;8.89;5.91;8.65;6.7;4.54;13.09;0;77.48;-70.69;6.79;25.69;-18;7.69;14.48;0;0;0;14.48;54
 28;ABUTRES AERODESIGN;Universidade Tecnológica Federal do Paraná (UTFPR - Cornélio Procópio);PR;10.6;3.42;12.19;10.03;9.21;7.62;6.26;2.38;13.34;0;75.05;-3.21;71.84;30.24;0;30.24;102.08;30;0      0.00;30;132.08;26
 37;UTFalcon AeroDesign;Universidade Tecnológica Federal do Paraná (UTFPR - Ponta Grossa);PR;6.22;4.82;15.35;8.28;11.58;4.95;9.46;6.54;7.3;0;74.51;-24.69;49.82;22.03;0;22.03;71.85;0;0;0;71.85;46
@@ -45,7 +45,7 @@ numero;equipe;escola;uf;dip;dip_plantas;aerodinamica;desempenho;estabilidade;car
 40;AEROSCORPION IFSP ARARAQUARA;Instituto Federal de Educação. Ciência e Tecnologia de São Paulo (IFSP - Araraquara);SP;7.36;3.13;10.27;8.34;8.82;9.28;8.76;6.31;7.76;0;70.03;-15.1;54.93;23.2;-4;19.2;74.13;0;0;0;74.13;45
 47;Enterprise;Universidade do Vale do Paraíba (UNIVAP);SP;9.67;4.55;8.94;11.39;5.84;8.94;7.11;3.14;8.64;0;68.22;-2.09;66.13;20.16;0;20.16;86.29;30;-17.5;12.5;98.79;37
 56;MINERVA AERODESIGN;Escola Politécnica - Universidade Federal do Rio de Janeiro (Poli - UFRJ);RJ;6.17;3.64;12.62;10.51;7.95;7.87;6.43;3.36;9.26;0;67.81;-70.8;0;28.71;-6;22.71;22.71;0;0;0;22.71;53
-49;AEROBEETLE;Faculdade Pitágoras - Unidade São Luís (Pitágoras - São Luís);MA;8.48;7.35;10.1;1       7.59;4.46;6.18;5.8;7.21;10.35;0;67.53;0;67.53;21.21;-4;17.21;84.74;0;0;0;84.74;41
+49;AEROBEETLE;Faculdade Pitágoras - Unidade São Luís (Pitágoras - São Luís);MA;8.48;7.35;10.1;7.59;4.46;6.18;5.8;7.21;10.35;0;67.53;0;67.53;21.21;-4;17.21;84.74;0;0;0;84.74;41
 46;FAM AERODESIGN;Instituto Federal do Espírito Santo (IFES - São Mateus);ES;9.57;4.69;9.95;8.97;6.65;6.05;8.54;4.83;7.6;0;66.85;-1.92;64.93;27.67;0;27.67;92.6;30;-18;12;104.6;34
 55;VALQUÍRIA AERODESIGN;Instituto Federal de Educação. Ciência e Tecnologia de São Paulo (IFSP - São José dos C;SP;5.54;3.18;12.07;6.18;5.69;5.6;2.93;7.5;9.02;0;57.71;-69.71;0;23.07;0;23.07;23.07;0;0;0;23.07;52
 60;Aerocáuria PUCPR;Pontificia Universidade Católica do Paraná (PUC - PR);PR;5.76;2.94;10.44;6.13;6.34;9.57;7.68;3.1;4.01;0;55.97;0;55.97;23.74;0;23.74;79.71;0;-30;0;79.71;43
